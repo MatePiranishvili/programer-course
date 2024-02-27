@@ -59,13 +59,12 @@ right(90)
 forward(200)
 left(90)
 forward(100)
-left(right)
+
 forward(80)
 left(right)
 forward(50)
 right(90)
-forward(100)
-right(90)
-forward(50)
+
+
 
 exitonclick()
