@@ -2,10 +2,10 @@
  #ეს შემოტანილი მონაცემები და მათი მონაცემთა ტიპები
 
 
-name="bruce"
-num1=4
-num2=6.8
-variable=True and False
+name = input("please enter your name: ")
+num1 = int(input("please enter your number: "))
+num2 = float (input("please enter your second number: "))
+variable = bool (input("please enter your boolean value: "))
 
 
 print(name)
